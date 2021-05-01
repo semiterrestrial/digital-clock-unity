@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d8f8abe-742e-4bcf-a221-d58379785117" name="Default Changelist" comment="" />
+    <list default="true" id="3d8f8abe-742e-4bcf-a221-d58379785117" name="Default Changelist" comment="3D digital clock based on 7 segment displays">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.digital-clock/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.digital-clock/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +11,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -82,8 +85,33 @@
       <updated>1619791212650</updated>
       <workItem from="1619791220358" duration="19733000" />
       <workItem from="1619898967506" duration="181000" />
-      <workItem from="1619899175333" duration="13000" />
+      <workItem from="1619899175333" duration="1020000" />
     </task>
+    <task id="LOCAL−00001" summary="3D digital clock based on 7 segment displays">
+      <created>1619899281343</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1619899281343</updated>
+    </task>
+    <task id="LOCAL−00002" summary="3D digital clock based on 7 segment displays">
+      <created>1619899526968</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1619899526968</updated>
+    </task>
+    <task id="LOCAL−00003" summary="3D digital clock based on 7 segment displays">
+      <created>1619899583669</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1619899583669</updated>
+    </task>
+    <task id="LOCAL−00004" summary="3D digital clock based on 7 segment displays">
+      <created>1619899588592</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1619899588592</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,5 +137,7 @@
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="3D digital clock based on 7 segment displays" />
+    <option name="LAST_COMMIT_MESSAGE" value="3D digital clock based on 7 segment displays" />
   </component>
 </project>
