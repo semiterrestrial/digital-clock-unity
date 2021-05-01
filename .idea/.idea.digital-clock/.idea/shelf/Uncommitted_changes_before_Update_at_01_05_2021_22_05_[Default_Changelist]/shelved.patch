@@ -1,0 +1,53 @@
+Index: .idea/.idea.digital-clock/.idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"3d8f8abe-742e-4bcf-a221-d58379785117\" name=\"Default Changelist\" comment=\"\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitSEFilterConfiguration\">\r\n    <file-type-list>\r\n      <filtered-out-file-type name=\"LOCAL_BRANCH\" />\r\n      <filtered-out-file-type name=\"REMOTE_BRANCH\" />\r\n      <filtered-out-file-type name=\"TAG\" />\r\n      <filtered-out-file-type name=\"COMMIT_BY_MESSAGE\" />\r\n    </file-type-list>\r\n  </component>\r\n  <component name=\"HighlightingSettingsPerFile\">\r\n    <setting file=\"file://$PROJECT_DIR$/Assets/DigitController.cs\" root0=\"FORCE_HIGHLIGHTING\" />\r\n  </component>\r\n  <component name=\"IdeDocumentHistory\">\r\n    <changedPaths>\r\n      <option value=\"$PROJECT_DIR$/Assets/DigitState.cs\" />\r\n      <option value=\"$PROJECT_DIR$/Assets/DigitController.cs\" />\r\n      <option value=\"$PROJECT_DIR$/Assets/DigitScript.cs\" />\r\n      <option value=\"$PROJECT_DIR$/.gitignore\" />\r\n    </changedPaths>\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"1rtN1HxHzx4urCpnXKTG4KBJrXB\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"Discover.Launch.Via.Unity\" value=\"true\" />\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"true\" />\r\n    <property name=\"settings.editor.selected.configurable\" value=\"project.propVCSSupport.Mappings\" />\r\n  </component>\r\n  <component name=\"RunManager\" selected=\"Attach to Unity Editor.Attach to Unity Editor\">\r\n    <configuration name=\"Standalone Player\" type=\"RunUnityExe\" factoryName=\"Unity Executable\">\r\n      <option name=\"EXE_PATH\" value=\"$PROJECT_DIR$/build/digital-clock.exe\" />\r\n      <option name=\"PROGRAM_PARAMETERS\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"C:\\private\\dev\\digital-clock\\digital-clock\\build\" />\r\n      <option name=\"PASS_PARENT_ENVS\" value=\"1\" />\r\n      <option name=\"USE_EXTERNAL_CONSOLE\" value=\"0\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"Attach to Unity Editor &amp; Play\" type=\"UNITY_DEBUG_RUN_CONFIGURATION\" factoryName=\"UNITY_ATTACH_AND_PLAY\" show_console_on_std_err=\"false\" show_console_on_std_out=\"false\" port=\"50000\" address=\"localhost\">\r\n      <option name=\"allowRunningInParallel\" value=\"false\" />\r\n      <option name=\"listenPortForConnections\" value=\"false\" />\r\n      <option name=\"pid\" />\r\n      <option name=\"projectPathOnTarget\" />\r\n      <option name=\"selectedOptions\">\r\n        <list />\r\n      </option>\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"Attach to Unity Editor\" type=\"UNITY_DEBUG_RUN_CONFIGURATION\" factoryName=\"Unity Debug\" show_console_on_std_err=\"false\" show_console_on_std_out=\"false\" port=\"50000\" address=\"localhost\">\r\n      <option name=\"allowRunningInParallel\" value=\"false\" />\r\n      <option name=\"listenPortForConnections\" value=\"false\" />\r\n      <option name=\"pid\" />\r\n      <option name=\"projectPathOnTarget\" />\r\n      <option name=\"selectedOptions\">\r\n        <list />\r\n      </option>\r\n      <method v=\"2\" />\r\n    </configuration>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"3d8f8abe-742e-4bcf-a221-d58379785117\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1619791212650</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1619791212650</updated>\r\n      <workItem from=\"1619791220358\" duration=\"19733000\" />\r\n      <workItem from=\"1619898967506\" duration=\"181000\" />\r\n      <workItem from=\"1619899175333\" duration=\"13000\" />\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"UnityProjectConfiguration\" hasMinimizedUI=\"true\" />\r\n  <component name=\"UnityUnitTestConfiguration\" currentTestLauncher=\"EditMode\" />\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n    <option name=\"oldMeFiltersMigrated\" value=\"true\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <ignored-roots>\r\n      <path value=\"$PROJECT_DIR$/..\" />\r\n      <path value=\"$PROJECT_DIR$\" />\r\n    </ignored-roots>\r\n    <option name=\"CLEAR_INITIAL_COMMIT_MESSAGE\" value=\"true\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/.idea.digital-clock/.idea/workspace.xml b/.idea/.idea.digital-clock/.idea/workspace.xml
+--- a/.idea/.idea.digital-clock/.idea/workspace.xml	(revision 4ac703bdd058f32f366941d453d9b51bd26a8293)
++++ b/.idea/.idea.digital-clock/.idea/workspace.xml	(date 1619899510933)
+@@ -1,7 +1,7 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="3d8f8abe-742e-4bcf-a221-d58379785117" name="Default Changelist" comment="" />
++    <list default="true" id="3d8f8abe-742e-4bcf-a221-d58379785117" name="Default Changelist" comment="3D digital clock based on 7 segment displays" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -9,6 +9,7 @@
+   </component>
+   <component name="Git.Settings">
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
++    <option name="UPDATE_TYPE" value="REBASE" />
+   </component>
+   <component name="GitSEFilterConfiguration">
+     <file-type-list>
+@@ -82,8 +83,15 @@
+       <updated>1619791212650</updated>
+       <workItem from="1619791220358" duration="19733000" />
+       <workItem from="1619898967506" duration="181000" />
+-      <workItem from="1619899175333" duration="13000" />
++      <workItem from="1619899175333" duration="334000" />
+     </task>
++    <task id="LOCAL−00001" summary="3D digital clock based on 7 segment displays">
++      <created>1619899281343</created>
++      <option name="number" value="LOCAL−00001" />
++      <option name="presentableId" value="LOCAL−00001" />
++      <updated>1619899281343</updated>
++    </task>
++    <option name="localTasksCounter" value="2" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -109,5 +117,7 @@
+       <path value="$PROJECT_DIR$" />
+     </ignored-roots>
+     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
++    <MESSAGE value="3D digital clock based on 7 segment displays" />
++    <option name="LAST_COMMIT_MESSAGE" value="3D digital clock based on 7 segment displays" />
+   </component>
+ </project>
+\ No newline at end of file
